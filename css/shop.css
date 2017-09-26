@@ -1,0 +1,92 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+/* header */
+.header{
+	background:url(../images/dark_embroidery.png);
+	color:white;
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 5px solid #26bbad;
+}
+.header span{
+	font-family: 'Rammetto One', cursive;
+}
+.header a{color: white;}
+.header li{border-left: 1px solid rgba(255, 255, 255, 0.2)}
+.header .left{border: 0;}
+.header a:hover{text-decoration: none; color: white;}
+/* /header */
+
+/* menu */
+.menu{
+	background-color: #fff;
+	border-bottom: 1px solid #EEEEEE;
+}
+.search-dropdown{
+	background: #fff none repeat scroll 0 0;
+    left: auto;
+    min-width: 250px;
+    padding: 20px;
+    right: 0;
+}
+.navbar-default {
+    border:0;
+}
+.navbar-default li:hover{
+	color:#F8D31E;
+}
+/* /menu */
+/* container */
+.product{
+	padding:60px 0px;
+}
+.gambar{
+	border:0;
+}
+.p{
+	font-size: 18px;
+    line-height: 31px;
+    padding: 20px 0;
+}
+.kotak{
+	border-radius: 0;
+}
+.description{
+	padding: 40px 0;
+	border-top: 1px solid #eee;
+}
+/* /container */
+/* footer */
+.footer{
+	background: url(../images/footer.png);
+	color: white;
+	padding: 20px 0;
+}
+.footer li{
+	list-style: none;
+}
+.footer a{
+	padding: 0;
+	padding-left:-5px;
+}
+/* /footer*/
+/* copyright */
+.copyright{
+	background:#31b0d5;
+	padding:10px 0;
+	color: white;
+	font-family: 'Rammetto One', cursive;
+}
+.copyright img{
+	padding-left: 5px;
+}
+/* /copyright */
+/* tambahan */
+h3{
+	font-family: 'Limelight', cursive;
+}
+h5{
+	margin-left: 3px;
+}

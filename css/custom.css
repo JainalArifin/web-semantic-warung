@@ -1,0 +1,139 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+/* header */
+.header{
+	background:url(../images/dark_embroidery.png);
+	color:white;
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 5px solid #26bbad;
+}
+.header span{
+	font-family: 'Rammetto One', cursive;
+}
+.header a{color: white;}
+.header li{border-left: 1px solid rgba(255, 255, 255, 0.2)}
+.header .left{border: 0;}
+.header a:hover{text-decoration: none; color: white;}
+/* /header */
+
+/* menu */
+.menu{
+	background-color: #fff;
+}
+.search-dropdown{
+	background: #fff none repeat scroll 0 0;
+    left: auto;
+    min-width: 250px;
+    padding: 20px;
+    right: 0;
+}
+.navbar-default {
+    border:0;
+}
+.navbar-default li:hover{
+	color:#F8D31E;
+}
+/* /menu */
+/* slider */
+.sliderPanjang {
+    background-color: #31B0D5;
+    padding: 30px 0;
+    height: 400px;
+}
+.item h1{
+	font-family: 'Shrikhand', cursive;
+}
+.item button{
+	font-family: 'Audiowide', cursive;
+}
+/* /slider */
+
+/* conatiner */
+.img-overlay h1 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -1px;
+    line-height: 24px;
+    margin-bottom: 0;
+    margin-top: -20px;
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    top: 50%;
+    width: 100%;
+}
+.imgContainer{
+	padding-top: 30px;
+}
+/* /container */
+
+/* container2 */
+.container2{
+	background: #020202;
+	color: #fff;
+	margin-top: 30px;
+}
+.container2 h1{
+	font-family: 'Audiowide', cursive;
+}
+.container2Left{
+	margin-top:72px;
+}
+.services button{
+	font-family: 'Audiowide', cursive;
+	margin-top: 20px;
+}
+/* /container 2 */
+/*featured product*/
+
+/*  /featured product*/
+/* footer */
+.footer{
+	background: url(../images/footer.png);
+	color: white;
+	padding: 20px 0;
+}
+.footer li{
+	list-style: none;
+}
+.footer a{
+	padding: 0;
+	padding-left:-5px;
+}
+/* /footer*/
+/* copyright */
+.copyright{
+	background:#31b0d5;
+	padding:10px 0;
+	color: white;
+	font-family: 'Rammetto One', cursive;
+}
+.copyright img{
+	padding-left: 5px;
+}
+/* /copyright */
+/* tambahan */
+h3{
+	font-family: 'Limelight', cursive;
+}
+h5{
+	margin-left: 3px;
+}
+
+.container-image div{
+	display: none;
+}
+img.gambar{
+	width:530px;
+	height: 321px;
+}
+
+.tambahan {
+    font-family: 'Audiowide', cursive;
+    margin-bottom: 100px;
+}
